@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:3000/api/books";
+const BASE_URL = "https://desafio-05-dnc.onrender.com/api/books";
 
 const LivrosService = {
     getLivros() {
